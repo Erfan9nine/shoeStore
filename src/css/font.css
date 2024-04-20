@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "inter";
+  src: url("/font/static/Inter-Bold.ttf"), format(".ttf");
+}
+@font-face {
+  font-family: "tittleCaption";
+  src: url("/font/Cinzel-Family/Cinzel/Cinzel-Regular.ttf"),format(".ttf");
+}
